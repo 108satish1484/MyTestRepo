@@ -5,6 +5,7 @@
  * Copyright 1998 Gerald Combs
  *
  * SPDX-License-Identifier: GPL-2.0-or-later
+ * part 2 stash 2
  */
 
 #ifndef __EXTCAP_PARSER_H__

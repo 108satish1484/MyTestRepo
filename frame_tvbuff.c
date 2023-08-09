@@ -6,6 +6,7 @@
  * Copyright 1998 Gerald Combs
  *
  * SPDX-License-Identifier: GPL-2.0-or-later
+ * This is main branch
  */
 
 #include <config.h>
