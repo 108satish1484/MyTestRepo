@@ -7,7 +7,7 @@
  * Copyright 1998 Gerald Combs
  *
  * SPDX-License-Identifier: GPL-2.0-or-later
- * I am from dev3 
+ * I am from date 8/9 and master branch
  */
 
 #ifndef __RINGBUFFER_H__
